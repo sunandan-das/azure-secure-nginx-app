@@ -131,9 +131,9 @@ http://<Firewall_Public_IP>:4000
 
 ## 📗 Author
 
-**Your Name**
-[LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
-[Email or GitHub](mailto:you@example.com)
+**Sunandan Sekhar Das**
+[LinkedIn Profile](https://www.linkedin.com/in/sunandansekhardas/)
+
 
 ---
 
